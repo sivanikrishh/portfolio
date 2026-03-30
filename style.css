@@ -159,4 +159,17 @@
     .navbar-nav .nav-item .nav-link.sivani:hover {
         color: #df6864; /* Hover link color */
         transform: scale(1.1); }
-          
+
+#projects-section {
+    margin-top: 100px;
+}
+
+#projects-section .card-img-top {
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#projects-section .card {
+    background-color: white;
+}
