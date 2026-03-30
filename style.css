@@ -165,8 +165,11 @@
 }
 
 #projects-section .card-img-top {
-    height: 150px;
-    object-fit: cover;
+    height: 120px;          
+    width: 100%;
+    object-fit: contain;    
+    padding: 10px;
+    background-color: #fff;
 }
 
 #projects-section .card {
